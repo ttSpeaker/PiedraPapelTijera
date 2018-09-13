@@ -47,7 +47,7 @@ function chequearTijera(maquina) {
             ganador('GANASTE!');
             break;
         case 'tijera':
-            ganador('EMPATE');
+            ganador('EMPATE ');
             break;
     }
 }
