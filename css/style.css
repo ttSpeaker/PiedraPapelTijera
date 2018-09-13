@@ -6,7 +6,8 @@ body {
     display: grid;
     grid-template-columns: 1fr 2fr 2fr 2fr 1fr;
     grid-template-rows: 10vh 18vh 18vh 18vh 20vh;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     text-align: center;
 }
